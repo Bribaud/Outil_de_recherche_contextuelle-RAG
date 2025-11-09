@@ -1,7 +1,6 @@
 # Outil de recherche contextuelle (Retrieval Augmented Generation) 💻📚
 
-Cet instrument est une ressource d'information conviviale pensée pour simplifier la quête d'informations. 
-Les utilisateurs ont la possibilité d'entrer des URL d'articles et de poser des questions afin d'obtenir des renseignements appropriés.
+**IA Recherche Contextuelle** est une application web interactive développée avec Streamlit qui implémente un système de Retrieval Augmented Generation (RAG). L'outil permet aux utilisateurs d'analyser automatiquement le contenu de plusieurs articles web en entrant simplement leurs URLs. Grâce à une architecture sophistiquée combinant le découpage intelligent de texte, la génération d'embeddings sémantiques via le modèle `all-MiniLM-L6-v2` de Hugging Face, et l'indexation vectorielle FAISS pour des recherches ultra-rapides, l'application offre une expérience fluide pour interroger les documents en langage naturel. Propulsée par Claude 3 Opus d'Anthropic, elle génère des réponses précises et contextuelles accompagnées de leurs sources, transformant ainsi la façon dont on accède à l'information en ligne en quelques secondes seulement.
 
 ![Logo du projet](img.png)
 
