@@ -1,4 +1,4 @@
-# Gen_IA-Outil_de_recherche_contextuelle-Chatbot
+# Outil de recherche contextuelle (Retrieval Augmented Generation)
 
 # Outil de recherche contextuelle 💻📚
 
