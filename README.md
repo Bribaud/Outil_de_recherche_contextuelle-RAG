@@ -1,6 +1,4 @@
-# Outil de recherche contextuelle (Retrieval Augmented Generation)
-
-# Outil de recherche contextuelle 💻📚
+# Outil de recherche contextuelle (Retrieval Augmented Generation) 💻📚
 
 Cet instrument est une ressource d'information conviviale pensée pour simplifier la quête d'informations. 
 Les utilisateurs ont la possibilité d'entrer des URL d'articles et de poser des questions afin d'obtenir des renseignements appropriés.
